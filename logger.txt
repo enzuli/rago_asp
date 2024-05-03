@@ -1,0 +1,345 @@
+Error Message: no such element: Unable to locate element: {"method":"xpath","selector":"//tr[td='HX-0744 (A1)']//a"}
+  (Session info: chrome=124.0.6367.61); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6F33E1522+60802]
+	(No symbol) [0x00007FF6F335AC22]
+	(No symbol) [0x00007FF6F3217CE4]
+	(No symbol) [0x00007FF6F3266D4D]
+	(No symbol) [0x00007FF6F3266E1C]
+	(No symbol) [0x00007FF6F32ACE37]
+	(No symbol) [0x00007FF6F328ABBF]
+	(No symbol) [0x00007FF6F32AA224]
+	(No symbol) [0x00007FF6F328A923]
+	(No symbol) [0x00007FF6F3258FEC]
+	(No symbol) [0x00007FF6F3259C21]
+	GetHandleVerifier [0x00007FF6F36E413D+3217821]
+	GetHandleVerifier [0x00007FF6F37260D7+3488055]
+	GetHandleVerifier [0x00007FF6F371F05F+3459263]
+	GetHandleVerifier [0x00007FF6F349B866+823494]
+	(No symbol) [0x00007FF6F3365FBF]
+	(No symbol) [0x00007FF6F3360EE4]
+	(No symbol) [0x00007FF6F3361072]
+	(No symbol) [0x00007FF6F33518C4]
+	BaseThreadInitThunk [0x00007FFA184D7344+20]
+	RtlUserThreadStart [0x00007FFA196226B1+33]
+, en equipo HX-0744 (A1)
+-----------------------------------
+---------------
+---------------
+
+Se cambio la fecha de vida util del equipo 3 de 2012-10-19 00:00:00 a 14/01/2039 y se lo encuadro cono EVU
+---------------
+
+Se cambio la fecha de vida util del equipo 1 de 2012-10-19 00:00:00 a 14/01/2039 y se lo encuadro cono EVU
+
+Error Message: no such element: Unable to locate element: {"method":"xpath","selector":"//tr[td[contains(.,'nan')]]//a"}
+  (Session info: chrome=124.0.6367.63); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF671E01502+60802]
+	(No symbol) [0x00007FF671D7AC02]
+	(No symbol) [0x00007FF671C37CE4]
+	(No symbol) [0x00007FF671C86D4D]
+	(No symbol) [0x00007FF671C86E1C]
+	(No symbol) [0x00007FF671CCCE37]
+	(No symbol) [0x00007FF671CAABBF]
+	(No symbol) [0x00007FF671CCA224]
+	(No symbol) [0x00007FF671CAA923]
+	(No symbol) [0x00007FF671C78FEC]
+	(No symbol) [0x00007FF671C79C21]
+	GetHandleVerifier [0x00007FF67210411D+3217821]
+	GetHandleVerifier [0x00007FF6721460B7+3488055]
+	GetHandleVerifier [0x00007FF67213F03F+3459263]
+	GetHandleVerifier [0x00007FF671EBB846+823494]
+	(No symbol) [0x00007FF671D85F9F]
+	(No symbol) [0x00007FF671D80EC4]
+	(No symbol) [0x00007FF671D81052]
+	(No symbol) [0x00007FF671D718A4]
+	BaseThreadInitThunk [0x00007FFF5C707344+20]
+	RtlUserThreadStart [0x00007FFF5E5026B1+33]
+, en equipo nan
+---------------
+
+Error Message: no such element: Unable to locate element: {"method":"xpath","selector":"//tr[td[contains(.,'nan')]]//a"}
+  (Session info: chrome=124.0.6367.63); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF671E01502+60802]
+	(No symbol) [0x00007FF671D7AC02]
+	(No symbol) [0x00007FF671C37CE4]
+	(No symbol) [0x00007FF671C86D4D]
+	(No symbol) [0x00007FF671C86E1C]
+	(No symbol) [0x00007FF671CCCE37]
+	(No symbol) [0x00007FF671CAABBF]
+	(No symbol) [0x00007FF671CCA224]
+	(No symbol) [0x00007FF671CAA923]
+	(No symbol) [0x00007FF671C78FEC]
+	(No symbol) [0x00007FF671C79C21]
+	GetHandleVerifier [0x00007FF67210411D+3217821]
+	GetHandleVerifier [0x00007FF6721460B7+3488055]
+	GetHandleVerifier [0x00007FF67213F03F+3459263]
+	GetHandleVerifier [0x00007FF671EBB846+823494]
+	(No symbol) [0x00007FF671D85F9F]
+	(No symbol) [0x00007FF671D80EC4]
+	(No symbol) [0x00007FF671D81052]
+	(No symbol) [0x00007FF671D718A4]
+	BaseThreadInitThunk [0x00007FFF5C707344+20]
+	RtlUserThreadStart [0x00007FFF5E5026B1+33]
+, en equipo nan
+---------------
+---------------
+
+Error Message: no such element: Unable to locate element: {"method":"xpath","selector":"//tr[td[contains(.,'13/800')]]//a"}
+  (Session info: chrome=124.0.6367.63); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C89B1502+60802]
+	(No symbol) [0x00007FF6C892AC02]
+	(No symbol) [0x00007FF6C87E7CE4]
+	(No symbol) [0x00007FF6C8836D4D]
+	(No symbol) [0x00007FF6C8836E1C]
+	(No symbol) [0x00007FF6C887CE37]
+	(No symbol) [0x00007FF6C885ABBF]
+	(No symbol) [0x00007FF6C887A224]
+	(No symbol) [0x00007FF6C885A923]
+	(No symbol) [0x00007FF6C8828FEC]
+	(No symbol) [0x00007FF6C8829C21]
+	GetHandleVerifier [0x00007FF6C8CB411D+3217821]
+	GetHandleVerifier [0x00007FF6C8CF60B7+3488055]
+	GetHandleVerifier [0x00007FF6C8CEF03F+3459263]
+	GetHandleVerifier [0x00007FF6C8A6B846+823494]
+	(No symbol) [0x00007FF6C8935F9F]
+	(No symbol) [0x00007FF6C8930EC4]
+	(No symbol) [0x00007FF6C8931052]
+	(No symbol) [0x00007FF6C89218A4]
+	BaseThreadInitThunk [0x00007FFF5C707344+20]
+	RtlUserThreadStart [0x00007FFF5E5026B1+33]
+, en equipo 13/800
+
+Se cambio la fecha de vida util del equipo 20/800 de 2012-08-21 00:00:00 a 20/04/2039 y se lo encuadro cono EVU
+
+Se cambio la fecha de vida util del equipo 912/1000 de 2028-05-01 00:00:00 a 20/04/2039 y se lo encuadro cono EVU
+
+Se cambio la fecha de vida util del equipo 920/1000 de 2028-05-01 00:00:00 a 20/04/2039 y se lo encuadro cono EVU
+
+Se cambio la fecha de vida util del equipo 929/1000 de 2028-05-01 00:00:00 a 20/04/2039 y se lo encuadro cono EVU
+
+Se cambio la fecha de vida util del equipo 944/1000 de 2028-08-25 00:00:00 a 20/04/2039 y se lo encuadro cono EVU
+
+Error Message: no such element: Unable to locate element: {"method":"xpath","selector":"//tr[td[contains(.,'956/1000')]]//a"}
+  (Session info: chrome=124.0.6367.63); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C89B1502+60802]
+	(No symbol) [0x00007FF6C892AC02]
+	(No symbol) [0x00007FF6C87E7CE4]
+	(No symbol) [0x00007FF6C8836D4D]
+	(No symbol) [0x00007FF6C8836E1C]
+	(No symbol) [0x00007FF6C887CE37]
+	(No symbol) [0x00007FF6C885ABBF]
+	(No symbol) [0x00007FF6C887A224]
+	(No symbol) [0x00007FF6C885A923]
+	(No symbol) [0x00007FF6C8828FEC]
+	(No symbol) [0x00007FF6C8829C21]
+	GetHandleVerifier [0x00007FF6C8CB411D+3217821]
+	GetHandleVerifier [0x00007FF6C8CF60B7+3488055]
+	GetHandleVerifier [0x00007FF6C8CEF03F+3459263]
+	GetHandleVerifier [0x00007FF6C8A6B846+823494]
+	(No symbol) [0x00007FF6C8935F9F]
+	(No symbol) [0x00007FF6C8930EC4]
+	(No symbol) [0x00007FF6C8931052]
+	(No symbol) [0x00007FF6C89218A4]
+	BaseThreadInitThunk [0x00007FFF5C707344+20]
+	RtlUserThreadStart [0x00007FFF5E5026B1+33]
+, en equipo 956/1000
+
+Error Message: no such element: Unable to locate element: {"method":"xpath","selector":"//tr[td[contains(.,'957/1000')]]//a"}
+  (Session info: chrome=124.0.6367.63); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C89B1502+60802]
+	(No symbol) [0x00007FF6C892AC02]
+	(No symbol) [0x00007FF6C87E7CE4]
+	(No symbol) [0x00007FF6C8836D4D]
+	(No symbol) [0x00007FF6C8836E1C]
+	(No symbol) [0x00007FF6C887CE37]
+	(No symbol) [0x00007FF6C885ABBF]
+	(No symbol) [0x00007FF6C887A224]
+	(No symbol) [0x00007FF6C885A923]
+	(No symbol) [0x00007FF6C8828FEC]
+	(No symbol) [0x00007FF6C8829C21]
+	GetHandleVerifier [0x00007FF6C8CB411D+3217821]
+	GetHandleVerifier [0x00007FF6C8CF60B7+3488055]
+	GetHandleVerifier [0x00007FF6C8CEF03F+3459263]
+	GetHandleVerifier [0x00007FF6C8A6B846+823494]
+	(No symbol) [0x00007FF6C8935F9F]
+	(No symbol) [0x00007FF6C8930EC4]
+	(No symbol) [0x00007FF6C8931052]
+	(No symbol) [0x00007FF6C89218A4]
+	BaseThreadInitThunk [0x00007FFF5C707344+20]
+	RtlUserThreadStart [0x00007FFF5E5026B1+33]
+, en equipo 957/1000
+
+Se cambio la fecha de vida util del equipo 961/1000 de 2028-05-01 00:00:00 a 20/04/2039 y se lo encuadro cono EVU
+
+Se cambio la fecha de vida util del equipo 28/1100 de 2024-04-29 00:00:00 a 20/04/2039 y se lo encuadro cono EVU
+---------------
+---------------
+
+Error Message: no such element: Unable to locate element: {"method":"xpath","selector":"//tr[td[contains(.,'50/1100')]]//a"}
+  (Session info: chrome=124.0.6367.63); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF72AF41502+60802]
+	(No symbol) [0x00007FF72AEBAC02]
+	(No symbol) [0x00007FF72AD77CE4]
+	(No symbol) [0x00007FF72ADC6D4D]
+	(No symbol) [0x00007FF72ADC6E1C]
+	(No symbol) [0x00007FF72AE0CE37]
+	(No symbol) [0x00007FF72ADEABBF]
+	(No symbol) [0x00007FF72AE0A224]
+	(No symbol) [0x00007FF72ADEA923]
+	(No symbol) [0x00007FF72ADB8FEC]
+	(No symbol) [0x00007FF72ADB9C21]
+	GetHandleVerifier [0x00007FF72B24411D+3217821]
+	GetHandleVerifier [0x00007FF72B2860B7+3488055]
+	GetHandleVerifier [0x00007FF72B27F03F+3459263]
+	GetHandleVerifier [0x00007FF72AFFB846+823494]
+	(No symbol) [0x00007FF72AEC5F9F]
+	(No symbol) [0x00007FF72AEC0EC4]
+	(No symbol) [0x00007FF72AEC1052]
+	(No symbol) [0x00007FF72AEB18A4]
+	BaseThreadInitThunk [0x00007FFF5C707344+20]
+	RtlUserThreadStart [0x00007FFF5E5026B1+33]
+, en equipo 50/1100
+
+Error Message: no such element: Unable to locate element: {"method":"xpath","selector":"//tr[td[contains(.,'59/1100')]]//a"}
+  (Session info: chrome=124.0.6367.63); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF72AF41502+60802]
+	(No symbol) [0x00007FF72AEBAC02]
+	(No symbol) [0x00007FF72AD77CE4]
+	(No symbol) [0x00007FF72ADC6D4D]
+	(No symbol) [0x00007FF72ADC6E1C]
+	(No symbol) [0x00007FF72AE0CE37]
+	(No symbol) [0x00007FF72ADEABBF]
+	(No symbol) [0x00007FF72AE0A224]
+	(No symbol) [0x00007FF72ADEA923]
+	(No symbol) [0x00007FF72ADB8FEC]
+	(No symbol) [0x00007FF72ADB9C21]
+	GetHandleVerifier [0x00007FF72B24411D+3217821]
+	GetHandleVerifier [0x00007FF72B2860B7+3488055]
+	GetHandleVerifier [0x00007FF72B27F03F+3459263]
+	GetHandleVerifier [0x00007FF72AFFB846+823494]
+	(No symbol) [0x00007FF72AEC5F9F]
+	(No symbol) [0x00007FF72AEC0EC4]
+	(No symbol) [0x00007FF72AEC1052]
+	(No symbol) [0x00007FF72AEB18A4]
+	BaseThreadInitThunk [0x00007FFF5C707344+20]
+	RtlUserThreadStart [0x00007FFF5E5026B1+33]
+, en equipo 59/1100
+
+Error Message: no such element: Unable to locate element: {"method":"xpath","selector":"//tr[td[contains(.,'61/1100')]]//a"}
+  (Session info: chrome=124.0.6367.63); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF72AF41502+60802]
+	(No symbol) [0x00007FF72AEBAC02]
+	(No symbol) [0x00007FF72AD77CE4]
+	(No symbol) [0x00007FF72ADC6D4D]
+	(No symbol) [0x00007FF72ADC6E1C]
+	(No symbol) [0x00007FF72AE0CE37]
+	(No symbol) [0x00007FF72ADEABBF]
+	(No symbol) [0x00007FF72AE0A224]
+	(No symbol) [0x00007FF72ADEA923]
+	(No symbol) [0x00007FF72ADB8FEC]
+	(No symbol) [0x00007FF72ADB9C21]
+	GetHandleVerifier [0x00007FF72B24411D+3217821]
+	GetHandleVerifier [0x00007FF72B2860B7+3488055]
+	GetHandleVerifier [0x00007FF72B27F03F+3459263]
+	GetHandleVerifier [0x00007FF72AFFB846+823494]
+	(No symbol) [0x00007FF72AEC5F9F]
+	(No symbol) [0x00007FF72AEC0EC4]
+	(No symbol) [0x00007FF72AEC1052]
+	(No symbol) [0x00007FF72AEB18A4]
+	BaseThreadInitThunk [0x00007FFF5C707344+20]
+	RtlUserThreadStart [0x00007FFF5E5026B1+33]
+, en equipo 61/1100
+
+Se cambio la fecha de vida util del equipo 64/1100 de 2024-04-30 00:00:00 a 23/04/2039 y se lo encuadro cono EVU
+
+Error Message: no such element: Unable to locate element: {"method":"xpath","selector":"//tr[td[contains(.,'20/1100')]]//a"}
+  (Session info: chrome=124.0.6367.63); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF72AF41502+60802]
+	(No symbol) [0x00007FF72AEBAC02]
+	(No symbol) [0x00007FF72AD77CE4]
+	(No symbol) [0x00007FF72ADC6D4D]
+	(No symbol) [0x00007FF72ADC6E1C]
+	(No symbol) [0x00007FF72AE0CE37]
+	(No symbol) [0x00007FF72ADEABBF]
+	(No symbol) [0x00007FF72AE0A224]
+	(No symbol) [0x00007FF72ADEA923]
+	(No symbol) [0x00007FF72ADB8FEC]
+	(No symbol) [0x00007FF72ADB9C21]
+	GetHandleVerifier [0x00007FF72B24411D+3217821]
+	GetHandleVerifier [0x00007FF72B2860B7+3488055]
+	GetHandleVerifier [0x00007FF72B27F03F+3459263]
+	GetHandleVerifier [0x00007FF72AFFB846+823494]
+	(No symbol) [0x00007FF72AEC5F9F]
+	(No symbol) [0x00007FF72AEC0EC4]
+	(No symbol) [0x00007FF72AEC1052]
+	(No symbol) [0x00007FF72AEB18A4]
+	BaseThreadInitThunk [0x00007FFF5C707344+20]
+	RtlUserThreadStart [0x00007FFF5E5026B1+33]
+, en equipo 20/1100
+
+Se cambio la fecha de vida util del equipo 12/1200 de 2024-04-28 00:00:00 a 23/04/2039 y se lo encuadro cono EVU
+
+Se cambio la fecha de vida util del equipo 4/1200 de 2024-11-18 00:00:00 a 23/04/2039 y se lo encuadro cono EVU
+
+Error Message: no such element: Unable to locate element: {"method":"xpath","selector":"//tr[td[contains(.,'41/1200')]]//a"}
+  (Session info: chrome=124.0.6367.63); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF72AF41502+60802]
+	(No symbol) [0x00007FF72AEBAC02]
+	(No symbol) [0x00007FF72AD77CE4]
+	(No symbol) [0x00007FF72ADC6D4D]
+	(No symbol) [0x00007FF72ADC6E1C]
+	(No symbol) [0x00007FF72AE0CE37]
+	(No symbol) [0x00007FF72ADEABBF]
+	(No symbol) [0x00007FF72AE0A224]
+	(No symbol) [0x00007FF72ADEA923]
+	(No symbol) [0x00007FF72ADB8FEC]
+	(No symbol) [0x00007FF72ADB9C21]
+	GetHandleVerifier [0x00007FF72B24411D+3217821]
+	GetHandleVerifier [0x00007FF72B2860B7+3488055]
+	GetHandleVerifier [0x00007FF72B27F03F+3459263]
+	GetHandleVerifier [0x00007FF72AFFB846+823494]
+	(No symbol) [0x00007FF72AEC5F9F]
+	(No symbol) [0x00007FF72AEC0EC4]
+	(No symbol) [0x00007FF72AEC1052]
+	(No symbol) [0x00007FF72AEB18A4]
+	BaseThreadInitThunk [0x00007FFF5C707344+20]
+	RtlUserThreadStart [0x00007FFF5E5026B1+33]
+, en equipo 41/1200
+---------------
+
+Error Message: no such element: Unable to locate element: {"method":"xpath","selector":"//tr[td[contains(.,'50/1100')]]//a"}
+  (Session info: chrome=124.0.6367.63); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF72AF41502+60802]
+	(No symbol) [0x00007FF72AEBAC02]
+	(No symbol) [0x00007FF72AD77CE4]
+	(No symbol) [0x00007FF72ADC6D4D]
+	(No symbol) [0x00007FF72ADC6E1C]
+	(No symbol) [0x00007FF72AE0CE37]
+	(No symbol) [0x00007FF72ADEABBF]
+	(No symbol) [0x00007FF72AE0A224]
+	(No symbol) [0x00007FF72ADEA923]
+	(No symbol) [0x00007FF72ADB8FEC]
+	(No symbol) [0x00007FF72ADB9C21]
+	GetHandleVerifier [0x00007FF72B24411D+3217821]
+	GetHandleVerifier [0x00007FF72B2860B7+3488055]
+	GetHandleVerifier [0x00007FF72B27F03F+3459263]
+	GetHandleVerifier [0x00007FF72AFFB846+823494]
+	(No symbol) [0x00007FF72AEC5F9F]
+	(No symbol) [0x00007FF72AEC0EC4]
+	(No symbol) [0x00007FF72AEC1052]
+	(No symbol) [0x00007FF72AEB18A4]
+	BaseThreadInitThunk [0x00007FFF5C707344+20]
+	RtlUserThreadStart [0x00007FFF5E5026B1+33]
+, en equipo 50/1100
